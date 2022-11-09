@@ -1,0 +1,45 @@
+.box1{
+    background-color: red;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box2{
+    background-color: #FCDDB0;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em ;
+}
+
+.box3{
+    background-color: aquamarine;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em;
+}
+
+.box4{
+    background-color: #BCEAD5;
+    width: 20%;
+    height: 700px;
+    margin: 2em 1em ;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 20%;
+    margin: 2em;
+    
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
